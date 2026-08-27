@@ -1,6 +1,6 @@
 {
   "mcp": {
-    "platform-mcp": {
+    "platform": {
       "type": "remote",
       "url": "https://app.getgram.ai/platform-mcp",
       "enabled": true

@@ -1,8 +1,8 @@
 {
-  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
-  "name": "platform-mcp",
-  "version": "0.2.2",
+  "name": "speakeasy",
+  "displayName": "Platform MCP",
   "description": "Manage MCPs, Risk Policies and explore logs in your favorite agent.",
+  "version": "0.3.3",
   "author": {
     "name": "Speakeasy",
     "url": "https://www.speakeasy.com/"

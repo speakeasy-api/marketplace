@@ -6,9 +6,9 @@
   },
   "plugins": [
     {
-      "name": "platform-mcp",
+      "name": "speakeasy",
       "displayName": "Platform MCP",
-      "source": "./platform-mcp",
+      "source": "./speakeasy",
       "description": "Manage MCPs, Risk Policies and explore logs in your favorite agent."
     }
   ]

@@ -9,8 +9,8 @@
   },
   "plugins": [
     {
-      "name": "platform-mcp-cursor",
-      "source": "platform-mcp-cursor",
+      "name": "speakeasy-cursor",
+      "source": "speakeasy-cursor",
       "description": "Manage MCPs, Risk Policies and explore logs in your favorite agent."
     }
   ]

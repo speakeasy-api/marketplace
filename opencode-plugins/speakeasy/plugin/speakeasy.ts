@@ -4,7 +4,7 @@ import { readFileSync, existsSync } from "node:fs"
 import { fileURLToPath } from "node:url"
 import { dirname, join } from "node:path"
 
-const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..", "platform-mcp")
+const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..", "speakeasy")
 
 export const SpeakeasyPlugin = async (_ctx: any) => ({
   config: async (cfg: any) => {

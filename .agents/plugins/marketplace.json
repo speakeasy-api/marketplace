@@ -6,10 +6,10 @@
   },
   "plugins": [
     {
-      "name": "platform-mcp-codex",
+      "name": "speakeasy-codex",
       "source": {
         "source": "local",
-        "path": "./platform-mcp-codex"
+        "path": "./speakeasy-codex"
       },
       "policy": {
         "installation": "AVAILABLE",

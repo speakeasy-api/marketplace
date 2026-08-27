@@ -12,7 +12,7 @@ It currently ships [Platform MCP](https://www.speakeasy.com/product/gram).
 
 ```
 /plugin marketplace add https://github.com/speakeasy-api/marketplace
-/plugin install platform-mcp@speakeasy
+/plugin install speakeasy@speakeasy
 ```
 
 ## Codex
@@ -21,7 +21,7 @@ It currently ships [Platform MCP](https://www.speakeasy.com/product/gram).
 codex plugin marketplace add https://github.com/speakeasy-api/marketplace
 ```
 
-Then open `/plugins` and install `platform-mcp-codex`.
+Then open `/plugins` and install `speakeasy-codex`.
 
 ## Cursor
 

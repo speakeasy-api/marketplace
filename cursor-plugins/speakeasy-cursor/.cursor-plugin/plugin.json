@@ -1,8 +1,8 @@
 {
-  "name": "platform-mcp-cursor",
+  "name": "speakeasy-cursor",
   "displayName": "Platform MCP",
   "description": "Manage MCPs, Risk Policies and explore logs in your favorite agent.",
-  "version": "0.2.2",
+  "version": "0.3.3",
   "author": {
     "name": "Speakeasy"
   },

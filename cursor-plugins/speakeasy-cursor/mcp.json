@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "platform-mcp": {
+    "platform": {
       "url": "https://app.getgram.ai/platform-mcp"
     }
   }
