@@ -1,0 +1,15 @@
+{
+  "name": "speakeasy",
+  "owner": {
+    "name": "Speakeasy",
+    "email": "support@speakeasy.com"
+  },
+  "plugins": [
+    {
+      "name": "platform-mcp",
+      "displayName": "Platform MCP",
+      "source": "./platform-mcp",
+      "description": "Manage MCPs, Risk Policies and explore logs in your favorite agent."
+    }
+  ]
+}

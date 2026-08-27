@@ -1,0 +1,10 @@
+{
+  "name": "platform-mcp-codex",
+  "version": "0.2.1",
+  "description": "Manage MCPs, Risk Policies and explore logs in your favorite agent.",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Platform MCP",
+    "shortDescription": "Manage MCPs, Risk Policies and explore logs in your favorite agent."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "platform-mcp",
+  "displayName": "Platform MCP",
+  "description": "Manage MCPs, Risk Policies and explore logs in your favorite agent.",
+  "version": "0.2.1",
+  "author": {
+    "name": "Speakeasy",
+    "url": "https://www.speakeasy.com/"
+  },
+  "homepage": "https://www.speakeasy.com/product/gram"
+}

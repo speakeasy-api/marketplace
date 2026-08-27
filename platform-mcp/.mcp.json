@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "platform-mcp": {
+      "type": "http",
+      "url": "https://app.getgram.ai/platform-mcp"
+    }
+  }
+}
