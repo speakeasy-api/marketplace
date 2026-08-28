@@ -2,7 +2,7 @@
   "name": "speakeasy",
   "displayName": "Platform MCP",
   "description": "Manage MCPs, Risk Policies and explore logs in your favorite agent.",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "author": {
     "name": "Speakeasy",
     "url": "https://www.speakeasy.com/"
