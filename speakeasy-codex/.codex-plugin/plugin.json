@@ -1,6 +1,6 @@
 {
   "name": "speakeasy-codex",
-  "version": "0.3.17",
+  "version": "0.3.18",
   "description": "Manage MCPs, Risk Policies and explore logs in your favorite agent.",
   "mcpServers": "./.mcp.json",
   "interface": {
