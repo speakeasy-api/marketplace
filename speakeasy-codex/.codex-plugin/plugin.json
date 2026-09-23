@@ -1,10 +1,11 @@
 {
   "name": "speakeasy-codex",
-  "version": "0.3.19",
+  "version": "0.4.20",
   "description": "Manage MCPs, Risk Policies and explore logs in your favorite agent.",
   "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "Platform MCP",
-    "shortDescription": "Manage MCPs, Risk Policies and explore logs in your favorite agent."
+    "shortDescription": "Manage MCPs, Risk Policies and explore logs in your favorite agent.",
+    "longDescription": "Manage MCPs, Risk Policies and explore logs in your favorite agent."
   }
 }
