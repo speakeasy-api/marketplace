@@ -10,10 +10,29 @@ It currently ships [Platform MCP](https://www.speakeasy.com/product/gram).
 
 ## Claude Code
 
+Merge this into `~/.claude/settings.json`, or into managed settings for your organization:
+
+```json
+{
+  "env": {
+    "FORCE_AUTOUPDATE_PLUGINS": "1"
+  },
+  "extraKnownMarketplaces": {
+    "speakeasy": {
+      "autoUpdate": true,
+      "source": {
+        "source": "git",
+        "url": "https://github.com/speakeasy-api/marketplace"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "speakeasy@speakeasy": true
+  }
+}
 ```
-/plugin marketplace add https://github.com/speakeasy-api/marketplace
-/plugin install speakeasy@speakeasy
-```
+
+Restart Claude Code, then open `/mcp`, select Platform MCP, and choose Authenticate.
 
 ## Codex
 
