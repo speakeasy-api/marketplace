@@ -10,7 +10,18 @@ It currently ships [Platform MCP](https://www.speakeasy.com/product/gram).
 
 ## Claude Code
 
-Merge this into `~/.claude/settings.json`, or into managed settings for your organization:
+```
+/plugin marketplace add https://github.com/speakeasy-api/marketplace
+/plugin install speakeasy@speakeasy
+```
+
+Then open `/mcp`, select Platform MCP, and choose Authenticate.
+
+### Keep Platform MCP up to date
+
+`/plugin marketplace add` leaves auto-update off. To turn it on for yourself, run `/plugin`, open **Marketplaces**, select `speakeasy`, and choose **Enable auto-update**.
+
+To turn it on for everyone in your organization, merge this into managed settings, or into `~/.claude/settings.json` for yourself, and restart Claude Code:
 
 ```json
 {
@@ -31,8 +42,6 @@ Merge this into `~/.claude/settings.json`, or into managed settings for your org
   }
 }
 ```
-
-Restart Claude Code, then open `/mcp`, select Platform MCP, and choose Authenticate.
 
 ## Codex
 
