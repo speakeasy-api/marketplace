@@ -61,4 +61,4 @@ https://github.com/speakeasy-api/marketplace
 
 ## Other agents
 
-`opencode-plugins/` and `agent-plugins/` carry the same server in the OpenCode and portable Agent Plugins formats. Clone this repository or download an archive from GitHub and point your agent at the directory for your format.
+`opencode-plugins/` and `agent-plugins/` carry the same server in the OpenCode and portable Agent Plugins formats. Clone this repository or download an archive from GitHub and point your agent at the directory for your format. Codex must use `speakeasy-codex/`, not the portable Agent Plugins package.
