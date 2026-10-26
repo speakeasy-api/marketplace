@@ -2,7 +2,7 @@
   "mcpServers": {
     "platform": {
       "type": "http",
-      "url": "https://app.getgram.ai/platform-mcp"
+      "url": "https://ai.speakeasy.com/platform-mcp"
     }
   }
 }
