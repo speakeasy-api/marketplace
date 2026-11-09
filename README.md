@@ -51,6 +51,14 @@ codex plugin marketplace add https://github.com/speakeasy-api/marketplace
 
 Then open `/plugins` and install `speakeasy-codex`.
 
+Codex does not open the sign-in page for a plugin's MCP server on its own. Sign in once with:
+
+```
+codex mcp login platform
+```
+
+Or ask the agent to sign you in; the plugin's `platform-sign-in` skill walks it through the same step.
+
 ## Cursor
 
 In the Cursor dashboard for a team you administer, go to Settings → Plugins → Import and paste:
