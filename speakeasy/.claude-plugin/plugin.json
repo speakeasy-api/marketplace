@@ -2,10 +2,11 @@
   "name": "speakeasy",
   "displayName": "Speakeasy Platform",
   "description": "Manage MCPs, Risk Policies and explore logs in your favorite agent.",
-  "version": "0.4.96",
+  "version": "0.4.97",
   "author": {
     "name": "Speakeasy",
     "url": "https://www.speakeasy.com/"
   },
-  "homepage": "https://www.speakeasy.com/product/gram"
+  "homepage": "https://www.speakeasy.com/product/gram",
+  "privacyPolicyUrl": "https://www.speakeasy.com/privacy-policy"
 }
