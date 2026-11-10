@@ -1,4 +1,4 @@
-# Platform MCP
+# Speakeasy Platform
 
 Manage MCPs, Risk Policies and explore logs in your favorite agent.
 

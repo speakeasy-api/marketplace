@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "speakeasy",
-      "displayName": "Platform MCP",
+      "displayName": "Speakeasy Platform",
       "source": "./speakeasy",
       "description": "Manage MCPs, Risk Policies and explore logs in your favorite agent."
     }

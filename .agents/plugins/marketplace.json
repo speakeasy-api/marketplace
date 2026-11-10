@@ -1,7 +1,7 @@
 {
   "name": "speakeasy",
   "interface": {
-    "displayName": "Platform MCP",
+    "displayName": "Speakeasy Platform",
     "shortDescription": "Manage MCPs, Risk Policies and explore logs in your favorite agent."
   },
   "plugins": [
